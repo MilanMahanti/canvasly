@@ -126,11 +126,6 @@ Canvasly is a powerful, user-friendly SaaS application designed to help users cr
 
 ---
 
-## License
-This project is licensed under the MIT License.
-
----
-
 ## Contact
 For inquiries or contributions, feel free to contact:
 - **Email**: milanmahanti16@gmail.com
