@@ -135,7 +135,5 @@ This project is licensed under the MIT License.
 For inquiries or contributions, feel free to contact:
 - **Email**: milanmahanti16@gmail.com
 
----
-
-## Special thanks to Code With Antonio for the amazing course
+#### Special thanks to Code With Antonio for the amazing course
 
