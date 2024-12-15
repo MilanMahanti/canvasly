@@ -1,55 +1,55 @@
-# Canvasly
+# 🎨 Canvasly
 
-Canvasly is a powerful, user-friendly SaaS application designed to help users create stunning designs effortlessly. Whether you're a professional designer or a beginner, Canvasly offers tools and templates to suit your needs. With features like image uploads, integration with Unsplash, text editing, shape manipulation, and AI-powered enhancements, Canvasly is your one-stop design solution.
-
----
-
-## Features
-
-### Core Features
-- **Image Uploads**: Add your own images to designs effortlessly.
-- **Unsplash Integration**: Search and add high-quality images from Unsplash directly.
-- **Shapes and Text**: Insert shapes and text, customize fonts, colors, and styles.
-- **Pre-Made Templates**: Choose from a wide range of templates, including premium and free options.
-
-### Premium Features
-- **AI Image Generation**: Generate unique images using Hugging Face’s serverless inference API.
-- **AI Background Removal**: Automatically remove image backgrounds with ease.
-- **Premium Templates**: Access exclusive premium design templates.
+Canvasly is a **powerful**, **user-friendly SaaS application** designed to help users create stunning designs effortlessly. Whether you're a professional designer or a beginner, Canvasly offers tools and templates to suit your needs. With features like **image uploads**, integration with **Unsplash**, text editing, shape manipulation, and **AI-powered enhancements**, Canvasly is your all-in-one design solution.
 
 ---
 
-## Tech Stack
+## 🚀 Features
 
-### Frontend
+### ✨ Core Features
+- 🖼️ **Image Uploads**: Add your own images to designs effortlessly.
+- 🌄 **Unsplash Integration**: Search and add high-quality images from Unsplash directly.
+- 🔤 **Shapes and Text**: Insert shapes and text, customize fonts, colors, and styles.
+- 📋 **Pre-Made Templates**: Choose from a wide range of templates, including premium and free options.
+
+### 💎 Premium Features
+- 🤖 **AI Image Generation**: Generate unique images using Hugging Face’s serverless inference API.
+- 🧹 **AI Background Removal**: Automatically remove image backgrounds with ease.
+- 🖌️ **Premium Templates**: Access exclusive premium design templates.
+
+---
+
+## 🛠️ Tech Stack
+
+### 🖥️ Frontend
 - **Next.js**: For a scalable, performant, and feature-rich React-based frontend.
-- **Tailwind CSS**: To ensure modern, responsive, and visually appealing UI.
-- **Radix UI**: For accessible and reusable UI components.
+- **Tailwind CSS**: Ensures modern, responsive, and visually appealing UI.
+- **Radix UI**: Provides accessible and reusable UI components.
 - **ShadCN Components**: Pre-built, customizable components for enhanced UI/UX.
 
-### Backend
+### 🌐 Backend
 - **Hono.js**: Fast and lightweight web framework for API request management.
 - **Drizzle ORM with PostgreSQL**: Efficient and scalable database management.
 
-### Authentication
-- **Auth.js**: Provides Google, GitHub, and credentials-based login.
+### 🔐 Authentication
+- **Auth.js**: Enables Google, GitHub, and credentials-based login.
 
-### Payment Integration
+### 💳 Payment Integration
 - **Stripe**: Seamless subscription and payment management.
 
-### AI Features
-- **Hugging Face Inference API**: Powers the AI image generation and background removal capabilities.
+### 🧠 AI Features
+- **Hugging Face Inference API**: Powers AI image generation and background removal capabilities.
 
 ---
 
-## Setup Instructions
+## 🛳️ Setup Instructions
 
-### Prerequisites
+### ✅ Prerequisites
 1. Node.js (>= 18)
 2. PostgreSQL Database
 3. Stripe Account
 
-### Installation
+### 🛠️ Installation
 
 1. Clone the repository:
    ```bash
@@ -91,7 +91,7 @@ Canvasly is a powerful, user-friendly SaaS application designed to help users cr
 
 ---
 
-## Scripts
+## 📜 Scripts
 - `npm run dev`: Start the development server.
 - `npm run build`: Build the application for production.
 - `npm start`: Run the production server.
@@ -103,32 +103,32 @@ Canvasly is a powerful, user-friendly SaaS application designed to help users cr
 
 ---
 
-## Key Dependencies
+## 📦 Key Dependencies
 
-### Core Libraries
+### 🧩 Core Libraries
 - [Next.js](https://nextjs.org/): Frontend framework.
 - [Tailwind CSS](https://tailwindcss.com/): Utility-first CSS framework.
 - [Radix UI](https://www.radix-ui.com/): Accessible UI components.
 - [ShadCN Components](https://shadcn.dev/): Pre-built, customizable components.
 
-### AI Features
+### 🤖 AI Features
 - [Hugging Face](https://huggingface.co/): For AI-powered image generation and background removal.
 
-### Authentication
+### 🔐 Authentication
 - [Auth.js](https://authjs.dev/): Flexible authentication system.
 
-### Database
+### 🗄️ Database
 - [Drizzle ORM](https://orm.drizzle.team/): Type-safe database ORM.
 - [PostgreSQL](https://www.postgresql.org/): Database management system.
 
-### Payment
+### 💳 Payment
 - [Stripe](https://stripe.com/): Payment processing.
 
 ---
 
-## Contact
+## 📞 Contact
 For inquiries or contributions, feel free to contact:
-- **Email**: milanmahanti16@gmail.com
+- **Email**:Milanmahanti16@gmail.com
 
 #### Special thanks to Code With Antonio for the amazing course
 
