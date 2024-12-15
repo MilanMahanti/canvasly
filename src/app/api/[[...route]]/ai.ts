@@ -5,6 +5,8 @@ import { Client } from "@gradio/client";
 import { verifyAuth } from "@hono/auth-js";
 import { hf } from "@/lib/huggingFace";
 
+export const maxDuration = 60;
+
 const app = new Hono()
   .post(
     "/generate-image",
